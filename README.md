@@ -16,3 +16,7 @@ serverless
 
 https://theburningmonk.medium.com/
 
+Data lake
+
+https://garystafford.medium.com/
+
