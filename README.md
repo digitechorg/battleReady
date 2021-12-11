@@ -25,3 +25,5 @@ https://garystafford.medium.com/event-driven-serverless-architectures-with-aws-l
 # UI Automation
 
 https://medium.com/codex/how-i-extract-dashboard-kpi-data-with-selenium-6705bf4a8e47
+
+https://faun.pub/leverage-springs-dependency-injection-for-ui-automation-e32d1d82f738
