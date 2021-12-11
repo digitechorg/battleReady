@@ -12,4 +12,7 @@ https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-fo
 
 https://acloudguru.com/blog
 
+serverless
+
+https://theburningmonk.medium.com/
 
