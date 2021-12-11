@@ -20,3 +20,5 @@ Data lake
 
 https://garystafford.medium.com/
 
+https://garystafford.medium.com/event-driven-serverless-architectures-with-aws-lambda-sqs-dynamodb-and-api-gateway-b1967cb210cb
+
