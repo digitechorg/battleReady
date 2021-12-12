@@ -32,3 +32,5 @@ https://faun.pub/leverage-springs-dependency-injection-for-ui-automation-e32d1d8
 
 annotation cheat sheet
 https://medium.com/@sureshkumar_95502/spring-spring-boot-annotations-cheat-sheet-de546e0b03d4
+
+https://medium.com/@arvindtelharkar/production-code-top-5-best-practices-3fd2ea43051a
