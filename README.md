@@ -34,6 +34,11 @@ https://faun.pub/leverage-springs-dependency-injection-for-ui-automation-e32d1d8
 
 https://medium.com/backend-habit/easy-step-to-convert-json-into-java-object-f4ef64e5aa11
 
+cucumber + spring boot
+
+https://www.youtube.com/watch?v=OqhTQSJTeOs&t=1962s
+
+
 # Spring Boot
 
 annotation cheat sheet
