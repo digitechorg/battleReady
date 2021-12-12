@@ -28,6 +28,8 @@ https://medium.com/codex/how-i-extract-dashboard-kpi-data-with-selenium-6705bf4a
 
 https://faun.pub/leverage-springs-dependency-injection-for-ui-automation-e32d1d82f738
 
+https://medium.com/backend-habit/easy-step-to-convert-json-into-java-object-f4ef64e5aa11
+
 # Spring Boot
 
 annotation cheat sheet
