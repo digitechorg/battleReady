@@ -49,3 +49,8 @@ https://medium.com/@arvindtelharkar/production-code-top-5-best-practices-3fd2ea4
 # Pact
 
 https://www.youtube.com/watch?v=U05q0zJsKsU&list=PLwy9Bnco-IpfZ72VQ7hce8GicVZs7nm0i&index=1
+
+# API Gateway (AWS)
+
+https://www.youtube.com/watch?v=UVA5Dw12aVI&list=PL5KTLzN85O4ISx9guOjbynlhCxB87xmUq
+
