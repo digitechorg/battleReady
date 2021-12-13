@@ -45,3 +45,7 @@ annotation cheat sheet
 https://medium.com/@sureshkumar_95502/spring-spring-boot-annotations-cheat-sheet-de546e0b03d4
 
 https://medium.com/@arvindtelharkar/production-code-top-5-best-practices-3fd2ea43051a
+
+# Pact
+
+https://www.youtube.com/watch?v=U05q0zJsKsU&list=PLwy9Bnco-IpfZ72VQ7hce8GicVZs7nm0i&index=1
